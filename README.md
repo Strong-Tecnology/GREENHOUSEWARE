@@ -7,26 +7,26 @@ Múltiples invernaderos no cuentan con muchos parámetros, generalmente solo se 
 3. Rendimiento final de la producción
 ## Método propuesto
 Utilizaremos una variedad de herramientas para la creación y desarrollo del software con las características que nosotros deseamos, las herramientas que utilizaremos son las siguientes: 
-•	Visual studio code
-•	Github
-•	Python
+1. Visual studio code
+2. Github
+3. Python
 ## Integrantes
-• Geraldine Enciso Huamani
-•
-•
-•
-•
-•
-•
-•
-•
+1. Geraldine Enciso Huamani
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
 ## fuente de Datos
 Primer parámetro que es el sistema de riego utilizaremos los archivos exportados de la empresa Galcon, un líder mundial en la fabricación de sistemas integrales de control de riego y Fertilización.
-1.) https://https://www.galconc.com/wp-content/uploads/2020/06/Greenhouse-spanish.pdf
+1. https://https://www.galconc.com/wp-content/uploads/2020/06/Greenhouse-spanish.pdf
 Para nuestro segundo parámetro utilizaremos la página web de scielo.org en el cual especifica una investigación completa con fuentes confiables sobre los ciclos del cultivo.
-2.) http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-78182007000300004
+2. http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-78182007000300004
 Para nuestro tercer parámetro, rendimiento total de las producciones, utilizaremos la página web oficial de InsightSoftware proveedor líder de soluciones de informes, análisis y gestión del rendimiento.
-3.) https://insightsoftware.com/es/blog/30-manufacturing-kpis-and-metric-examples/
+3. https://insightsoftware.com/es/blog/30-manufacturing-kpis-and-metric-examples/
 # Referencias
 1. https://www.eafit.edu.co/innovacion/transferencia/Paginas/software- invernadero.aspx
 2. https://www.fao.org/3/bp851s/bp851s.pdf
