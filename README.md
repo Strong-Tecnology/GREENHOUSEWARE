@@ -11,7 +11,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 2. Github
 3. Python
 ## Integrantes
-1. Geraldine Enciso Huamani
+1. Geraldine Enciso Huamani 24187
 2. 
 3. 
 4. 
@@ -28,7 +28,7 @@ Para nuestro segundo parámetro utilizaremos la página web de scielo.org en el 
 Para nuestro tercer parámetro, rendimiento total de las producciones, utilizaremos la página web oficial de InsightSoftware proveedor líder de soluciones de informes, análisis y gestión del rendimiento.
 3. https://insightsoftware.com/es/blog/30-manufacturing-kpis-and-metric-examples/
 # Referencias
-1. https://www.eafit.edu.co/innovacion/transferencia/Paginas/software- invernadero.aspx
+1. https://www.eafit.edu.co/innovacion/transferencia/Paginas/software-invernadero.aspx
 2. https://www.fao.org/3/bp851s/bp851s.pdf
 3. https://www.redalyc.org/journal/2631/263150548014/html/
 
