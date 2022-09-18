@@ -1,7 +1,7 @@
 # GREENHOUSEWARE
 Software especializado en controlar parámetros para un invernadero.
 ## Problema a resolver
-Múltiples invernaderos no cuentan con muchos parámetros, generalmente solo se dedican a evaluar lo que creen necesario, por ejemplo, solo controlan la temperatura y humedad relativa y no toman en cuenta otros parámetros que son de bastante utilidad, como medir el ciclo del cultivo en cada una de sus etapas, sistemas de riego que incluyan un monitoreo constante de cada cuanto se regará y por último saber cuánto será el rendimiento total de cada producción. En conclusión este proyesto está destinado a controlar tres parámetros de un invernadero:
+Múltiples invernaderos no cuentan con muchos parámetros, generalmente solo se dedican a evaluar lo que creen necesario, por ejemplo, solo controlan la temperatura y humedad relativa y no toman en cuenta otros parámetros importantes que son de bastante utilidad, como medir el ciclo del cultivo en cada una de sus etapas, sistemas de riego que incluyan un monitoreo constante de cada cuanto se regará y por último saber cuánto será el rendimiento total de cada producción. En conclusión este proyesto está destinado a controlar tres parámetros de un invernadero:
 1. Sistema de riego
 2. Medición del ciclo de cultivo
 3. Rendimiento final de la producción
