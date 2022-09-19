@@ -18,7 +18,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 5. Gerardo Alexis Sosa 24280 
 6. Estrella Rodríguez 21305
 7. 
-8. 
+8. Oscar Sánchez 23006
 9. 
 ## fuente de Datos (data source)
 Primer parámetro que es el sistema de riego utilizaremos los archivos exportados de la empresa Galcon, un líder mundial en la fabricación de sistemas integrales de control de riego y Fertilización.
