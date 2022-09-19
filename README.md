@@ -16,7 +16,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 3. 
 4. Yohel Alejandro Rivera 24153 
 5. Gerardo Alexis Sosa 24280 
-6. 
+6. Estrella Rodríguez 21305
 7. 
 8. 
 9. 
