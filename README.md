@@ -12,7 +12,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 3. Python
 ## Integrantes
 1. Geraldine Enciso Huamani 24187
-2. Yohel Alejandro Rivera 24153
+2. Nadya Paula Granda Flores 24085
 3. 
 4. 
 5. 
