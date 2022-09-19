@@ -21,7 +21,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 8. 
 9. 
 ## fuente de Datos
-Primer parámetro que es el sistema de riego utilizaremos los archivos exportados de la empresa Galcon, un líder mundial en la fabricación de sistemas integrales de control de riego y Fertilización.
+Para nuestro primer parámetro que es el sistema de riego utilizaremos los archivos exportados de la empresa Galcon, un líder mundial en la fabricación de sistemas integrales de control de riego y Fertilización.
 1. https://https://www.galconc.com/wp-content/uploads/2020/06/Greenhouse-spanish.pdf
 Para nuestro segundo parámetro utilizaremos la página web de scielo.org en el cual especifica una investigación completa con fuentes confiables sobre los ciclos del cultivo.
 2. http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0378-78182007000300004
