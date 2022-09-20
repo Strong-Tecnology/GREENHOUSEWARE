@@ -17,7 +17,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 4. Yohel Alejandro Rivera 24153 
 5. Gerardo Alexis Sosa 24280 
 6. Estrella Rodríguez 21305
-7. 
+7. Valeria Calderón 24261
 8. Oscar Sánchez 23006
 9. Julia Janeth Leiva Guerra 24189
 ## fuente de Datos (data source)
