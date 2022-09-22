@@ -13,7 +13,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 ## Integrantes
 1. Geraldine Enciso Huamani 24187
 2. Nadya Paula Granda Flores 24085
-3. 
+3. Raúl francisco Quiroz Rivera 24288
 4. Yohel Alejandro Rivera 24153 
 5. Gerardo Alexis Sosa 24280 
 6. Estrella Rodríguez 21305
