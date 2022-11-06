@@ -13,12 +13,12 @@ producción de cultivos que se ejecutará en ese momento para que exista un mejo
 y mejores resultados, disminuyendo los porcentajes de pérdida y que la
 producción alcance su éxito en el menor tiempo posible.
 
-En conclusión este proyesto está destinado a controlar tres parámetros de un invernadero:
+En conclusión este proyecto está destinado a controlar tres parámetros de un invernadero:
 1.  Número de unidades producidas
 2.  Tiempo de cosecha
 3. Rendimiento de la producción
 ## Método propuesto
-Utilizaremos una variedad de herramientas para la creación y desarrollo del software con las características que nosotros deseamos, las herramientas que utilizaremos son las siguientes: 
+Utilizaremos una variedad de herramientas para la creación y desarrollo del software con las características que nosotros deseamos, son las siguientes: 
 1. Visual studio code
 2. Github
 3. Python
