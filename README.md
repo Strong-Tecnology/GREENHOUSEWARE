@@ -16,7 +16,6 @@ En conclusión este proyesto está destinado a controlar tres parámetros de un 
 1.  Número de unidades producidas
 2.  Tiempo de cosecha
 3. Rendimiento de la producción
-
 ## Método propuesto
 Utilizaremos una variedad de herramientas para la creación y desarrollo del software con las características que nosotros deseamos, las herramientas que utilizaremos son las siguientes: 
 1. Visual studio code
@@ -33,8 +32,7 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 7. Valeria Calderón 24261
 8. Oscar Sánchez 23006
 9. Julia Janeth Leiva Guerra 24189
-
-## fuente de Datos (data source)
+## Fuente de Datos (data source)
 Primer parámetro utilizaremos los archivos exportados de la empresa Galcon, un líder mundial en la fabricación de sistemas integrales de control de riego y Fertilización.
 1. https://https://www.galconc.com/wp-content/uploads/2020/06/Greenhouse-spanish.pdf
 Para nuestro segundo parámetro utilizaremos la página web de scielo.org en el cual especifica una investigación completa con fuentes confiables sobre los ciclos del cultivo.
@@ -43,7 +41,9 @@ Para nuestro tercer parámetro, rendimiento total de las producciones, utilizare
 3. https://insightsoftware.com/es/blog/30-manufacturing-kpis-and-metric-examples/
 Base de datos 
 4. [TEA-Data (1).xlsx](https://alumnizamorano-my.sharepoint.com/:x:/g/personal/geraldine_enciso_est_zamorano_edu/EYNOPSRiDU1HmdUisRIXI_cBrz4NKmMio6PqF-jiah0auw?e=dd0bRA)
-
+## Resultados
+<img height="400" src="(https://user-images.githubusercontent.com/112207558/200194747-42cb5d15-96fe-4ddd-a463-a942a6cfeca1.png)" align="middle">
+Esto se hizo mediante el parámetro kind='bar'. Estamos usando esto porque queremos dar a conocer los días y número de unidades producidas, asimismo, todo esto va en relación con los rendimientos obtenidos en ese día. Básicamente en esta gráfica de barras podemos observar los días cómo actúa el rendimiento al largo de los 14 días.
 # Referencias
 https://www.eafit.edu.co/innovacion/transferencia/Paginas/software-invernadero.aspx
 https://www.fao.org/3/bp851s/bp851s.pdf
