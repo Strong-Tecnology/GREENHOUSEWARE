@@ -22,7 +22,9 @@ Utilizaremos una variedad de herramientas para la creación y desarrollo del sof
 1. Visual studio code
 2. Github
 3. Python
-
+4. Pandas
+5. Jupyter Notebook
+6. Matplotlib
 ## Integrantes
 1. Geraldine Enciso Huamani 24187
 2. Nadya Paula Granda Flores 24085
