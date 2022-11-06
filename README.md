@@ -1,5 +1,6 @@
 # GREENHOUSEWARE
 Software especializado en controlar parámetros para un invernadero.
+<img height="400" src="https://user-images.githubusercontent.com/112207558/200195239-018f8e46-ec28-4aca-ac8a-0a8949fc5e25.png" align="middle">
 ## Problema a resolver
 Múltiples invernaderos no cuentan con muchos parámetros que evaluar o solamente
 cuentan con los que creen necesarios, generalmente y la mayoría solo controlan la
@@ -42,9 +43,10 @@ Para nuestro tercer parámetro, rendimiento total de las producciones, utilizare
 Base de datos 
 4. [TEA-Data (1).xlsx](https://alumnizamorano-my.sharepoint.com/:x:/g/personal/geraldine_enciso_est_zamorano_edu/EYNOPSRiDU1HmdUisRIXI_cBrz4NKmMio6PqF-jiah0auw?e=dd0bRA)
 ## Resultados
-<img height="400" src="(https://user-images.githubusercontent.com/112207558/200194747-42cb5d15-96fe-4ddd-a463-a942a6cfeca1.png)" align="middle">
-Esto se hizo mediante el parámetro kind='bar'. Estamos usando esto porque queremos dar a conocer los días y número de unidades producidas, asimismo, todo esto va en relación con los rendimientos obtenidos en ese día. Básicamente en esta gráfica de barras podemos observar los días cómo actúa el rendimiento al largo de los 14 días.
-# Referencias
+<img height="400" src="https://github.com/Strong-Tecnology/GREENHOUSEWARE/blob/main/Picture3.jpg" align="middle">
+Esto se hizo mediante el parámetro kind='bar'. Estamos usando esto porque queremos dar a conocer los días y número de unidades producidas, asimismo, todo esto va en relación con los rendimientos obtenidos en ese día. Básicamente en esta gráfica de barras podemos observar los días cómo actúa el rendimiento al largo de los 14 días
+
+## Referencias
 https://www.eafit.edu.co/innovacion/transferencia/Paginas/software-invernadero.aspx
 https://www.fao.org/3/bp851s/bp851s.pdf
 https://www.redalyc.org/journal/2631/263150548014/html/
@@ -53,4 +55,9 @@ https://pandas.pydata.org/
 https://www.anaconda.com/products/distribution
 https://jupyter.org/
 https://aprendeconalf.es/docencia/python/manual/matplotlib/
-.
+
+
+
+
+
+
