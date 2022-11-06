@@ -1,6 +1,11 @@
 # GREENHOUSEWARE
 Software especializado en controlar parámetros para un invernadero.
 <img height="400" src="https://user-images.githubusercontent.com/112207558/200195239-018f8e46-ec28-4aca-ac8a-0a8949fc5e25.png" align="middle">
+## Objetivos
+1. Crear un software especializado para que lleve el control de 3 parámetros.
+2. Implementar un software capacitado que brinde los resultados de los análisis estadísticos por medio de tablas.
+3. Manejar las herramientas de los sistemas de información.
+4. Crear un repositorio en Github para almacenar la información completa de todo nuestro proyecto. 
 ## Problema a resolver
 Múltiples invernaderos no cuentan con muchos parámetros que evaluar o solamente
 cuentan con los que creen necesarios, generalmente y la mayoría solo controlan la
