@@ -63,7 +63,7 @@ Esto se hizo mediante el parámetro kind='bar'. Estamos usando esto porque quere
 
 •	Matplotlib — Visualization with Python. (2022). Matplotlib.org. https://matplotlib.org/
 
-•	Miguel Servín Palestina, Leonardo Tijerina Chávez, Guillermo Medina García, Oscar Palacios Velez, & Héctor Flores Magdaleno. (2017). Sistema para programar y calendarizar el riego de los cultivos en tiempo real. Revista Mexicana de Ciencias Agrícolas, 8(2), 423–430. https://www.redalyc.org/journal/2631/263150548014/html/
+•	Miguel, P., Chávez, L., García, G., Velez, O. & Magdaleno, H. (2017). Sistema para programar y calendarizar el riego de los cultivos en tiempo real. Revista Mexicana de Ciencias Agrícolas, 8(2), 423–430. https://www.redalyc.org/journal/2631/263150548014/html/
 
 •	Pandas - Python Data Analysis Library. (2022). Pydata.org. https://pandas.pydata.org/
 
