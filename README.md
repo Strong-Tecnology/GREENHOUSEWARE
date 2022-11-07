@@ -56,13 +56,26 @@ Esto se hizo mediante el parámetro kind='bar'. Estamos usando esto porque quere
 ## Referencias
 
 •	Anaconda | Anaconda Distribution. (2022). Anaconda; Anacoda. https://www.anaconda.com/products/distribution
+
 •	Alfredo Sánchez Alberca. (2020). La librería Matplotlib | Aprende con Alf. Aprende Con Alf. https://aprendeconalf.es/docencia/python/manual/matplotlib/
+
 •	BIOENERGÍA Y SEGURIDAD ALIMENTARIA ÉVALUACIÓN RÁPIDA (BEFS RA) Manual de Usuario PRODUCCIÓN DE CULTIVOS. (n.d.). https://www.fao.org/3/bp851s/bp851s.pdf
+
 •	Matplotlib — Visualization with Python. (2022). Matplotlib.org. https://matplotlib.org/
+
 •	Miguel Servín Palestina, Leonardo Tijerina Chávez, Guillermo Medina García, Oscar Palacios Velez, & Héctor Flores Magdaleno. (2017). Sistema para programar y calendarizar el riego de los cultivos en tiempo real. Revista Mexicana de Ciencias Agrícolas, 8(2), 423–430. https://www.redalyc.org/journal/2631/263150548014/html/
+
 •	Pandas - Python Data Analysis Library. (2022). Pydata.org. https://pandas.pydata.org/
+
 •	Project Jupyter. (2022). Jupyter.org. https://jupyter.org/
+
 •	Universidad EAFIT. (2022). Software para invernadero - Innovación EAFIT / Transferencia de Tecnología y Conocimiento - Universidad EAFIT. Eafit.edu.co; www.eafit.edu.co. https://www.eafit.edu.co/innovacion/transferencia/Paginas/software-invernadero.aspx
+
+
+
+
+
+
 
 
 
